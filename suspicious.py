@@ -1,0 +1,3 @@
+#lets pretend I am connecting to some API here...
+my_password = "tHiSiSmYPaSsWoRd:)"
+print(my_password)
